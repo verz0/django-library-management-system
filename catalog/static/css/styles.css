@@ -1,0 +1,14 @@
+.sidebar-nav {
+  margin-top: 20px;
+  padding: 0;
+  list-style: none;
+}
+
+h1 a, h2 a {
+  color: #1fc0c5;
+}
+
+body {
+  background-color: lightblue;
+  font-family: verdana;
+}
